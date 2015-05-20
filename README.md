@@ -1,7 +1,7 @@
 # hadoop-tutorial
 there are many different tutorials on using hadoop+eclipse in internet.
 
-this version gives a detailed introduction on how to configure hadoop+eclipse
+this version gives a detailed introduction on how to configure hadoop+eclipse(java)
 
 I run the sample wordcount on ubuntu with one master node + two slaver nodes
 
